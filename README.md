@@ -6,7 +6,7 @@ Group Members: Kaylin, Jeremy, Perk, and Gregory
 
 hosted on GitHub: https://perkthong.github.io/monstersafe/
 
-<<<<<<< HEAD
+
 # API's from:
 1) https://covidactnow.org/data-api free API that shows COVID data for all 50 states
 2) https://maps.googleapis.com/maps/api/place/details/output?parameters Google Places API supplementary API to go with Google Maps
@@ -18,7 +18,7 @@ With our website, users can check the most current COVID19 infected numbers per 
 
 ## Screenshoot of the finished website
 ![Capture](https://user-images.githubusercontent.com/88611613/140680698-fa03752f-6440-4238-92b4-4261976b187b.PNG)
-=======
+
 ## User Story:
 If people are feeling like too much irrelevant information is flooding out of all new sources. People want clean cut and easy to digest information that is not overwhelming. Now Group 7 has come together to create a highly interactive website that gives users updated information about COVID19 across all 50 states from trusted sources.
 
