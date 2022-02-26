@@ -1,4 +1,4 @@
-# Group 7 Project
+# MonsterSafe
 
 Monster Safe: COVID19 map and information per state
 
