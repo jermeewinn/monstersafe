@@ -2,7 +2,7 @@
 
 Monster Safe: COVID19 map and information per state
 
-Group Members: Kaylin, Jeremy, Perk, and Gregory
+Group Members: Kaylin Boyle, Jeremy Huynh, Perk Thong, and Gregory Alcala
 
 hosted on GitHub: https://perkthong.github.io/monstersafe/
 
@@ -22,10 +22,12 @@ With our website, users can check the most current COVID19 infected numbers per 
 ## User Story:
 If people are feeling like too much irrelevant information is flooding out of all new sources. People want clean cut and easy to digest information that is not overwhelming. Now Group 7 has come together to create a highly interactive website that gives users updated information about COVID19 across all 50 states from trusted sources.
 
-# API's from:
-1) https://covidactnow.org/data-api free API that shows COVID data for all 50 states
-2) http://www.heatmapapi.com/Default.aspx free heat map API
-
+## Technologies Used:
+- HTML5
+- CSS3
+- CSS Bulma
+- Javascript
+- jQuery
 
 # Future goals:
 
