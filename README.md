@@ -9,10 +9,6 @@ Monster Safe is a COVID-19 stat tracking interactinve front-end application buil
 - [Deployed Link](#deployed_link)
 - [Collaborators](#collaborators)
 
-Group Members: Kaylin, Jeremy, Perk, and Gregory
-
-
-
 ## 3rd-Party APIs:
 1) https://covidactnow.org/data-api free API that shows COVID data for all 50 states
 2) https://maps.googleapis.com/maps/api/place/details/output?parameters Google Places API supplementary API to go with Google Maps
